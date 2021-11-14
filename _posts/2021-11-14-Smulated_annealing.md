@@ -1,9 +1,9 @@
 ---
 title: Simulated annealing
-tags: 'Statistical Physics', 'Numerical method'
+tags: StatMech, NumMethod
 mathjax: true
 ---
 
-### 什麼是simulated annealing？
+#### 什麼是simulated annealing？
 
-### 這個方法是誰發現的？
+#### 這個方法是誰發明的？
