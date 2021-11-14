@@ -11,3 +11,5 @@ mathjax: true
 ### 與統計物理的關係
 
 ### 自旋玻璃
+
+$H_{SK}=\sum_{ij}J_{ij}S_iS_j$
