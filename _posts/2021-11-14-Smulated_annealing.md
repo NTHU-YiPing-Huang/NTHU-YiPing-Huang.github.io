@@ -1,6 +1,6 @@
 ---
 title: Simulated annealing
-tags: [Statistical Physics], [Numerical method]
+tags: 'Statistical Physics', 'Numerical method'
 mathjax: true
 ---
 
