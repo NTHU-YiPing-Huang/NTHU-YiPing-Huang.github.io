@@ -1,5 +1,5 @@
 ---
-title:量子物質態（quantum matter）簡介
+title:量子物質態-quantum matter-簡介
 tags:量子力學,多體物理,量子物質態
 ---
 
