@@ -58,7 +58,13 @@ $ |c_2|^2$的機率會量出自旋向下的結果。
 當我們有兩個q-bits(最簡單的「多」個量子位元)，我們具有的組態總共就是四個，利用他們當作基底我們有這四個基底，
 $|\uparrow\rangle_1\otimes|\uparrow\rangle_2, |\uparrow\rangle_1\otimes|\downarrow\rangle_2,|\downarrow\rangle_1\otimes|\uparrow\rangle_2$和
 $|\downarrow\rangle_1\otimes|\downarrow\rangle_2$
-，這些基底可以任意線性疊加產生這個系統的波函數。這裡下標1,2表示第一個和第二個q-bit。這邊要先介紹所謂的直積（direct product $latex \otimes$），表示我們把第一個和第二個q-bit放在一起，而需要在更大的Hilbert space中考慮他的意義。也就是說這些基底（這四個基底）其實是一個更大的Hilbert空間的一組基底。而這個更大的Hilbert空間，是由兩個小的Hilbert空間（$latex \mathcal{H}_1$（基底是$latex |\uparrow\rangle_1,|\downarrow\rangle_1$）和$latex \mathcal{H}_2$（基底是$latex |\uparrow\rangle_2,|\downarrow\rangle_2$））組裝出來（$latex \mathcal{H}_1\otimes \mathcal{H}_2$）的空間。通常因為懶惰的理由，這個直積的符號都會被忽略，從上下文關係，而利用下標1,2理解這個基底是在一個有兩個q-bits的空間中。
+，這些基底可以任意線性疊加產生這個系統的波函數。這裡下標1,2表示第一個和第二個q-bit。這邊要先介紹所謂的直積（direct product 
+$\otimes$），表示我們把第一個和第二個q-bit放在一起，而需要在更大的Hilbert space中考慮他的意義。也就是說這些基底（這四個基底）其實是一個更大的Hilbert空間的一組基底。而這個更大的Hilbert空間，是由兩個小的Hilbert空間（
+$\mathcal{H}_1$（基底是
+$|\uparrow\rangle_1,|\downarrow\rangle_1$）和
+$\mathcal{H}_2$（基底是
+$|\uparrow\rangle_2,|\downarrow\rangle_2$））組裝出來（
+$\mathcal{H}_1\otimes \mathcal{H}_2$）的空間。通常因為懶惰的理由，這個直積的符號都會被忽略，從上下文關係，而利用下標1,2理解這個基底是在一個有兩個q-bits的空間中。
 
 當我們開始應用線性疊加原理後，我們可以發現有一些基底的組合可能和某些基底組合有著細緻的不同。
 
