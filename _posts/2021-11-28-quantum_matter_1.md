@@ -19,7 +19,8 @@ $$ i\partial_t|\psi\rangle=\hat{H}|\psi\rangle $$
 
 波函數這個概念妙就在於這個『集中』起來的概念。集中是什麼意思？這些不同係數是什麼意義？為什麼波函數的係數是複數？這和Schrödinger方程式有什麼關係？這都是學習量子力學很好的問題。學習完整量子力學也不是三言兩語可以完備。以下提供我覺得不錯的學習資源，之後我會試著用簡短但不精確的人類語言試著傳達這個『集中』是什麼意思。
 
-**這邊推薦幾本好的教科書**
+這邊推薦幾本好的教科書
+{:.info}
 
 * Shankar, "Principles of quantum mechanics" （可以自學的入門書，小時候長大的自修讀物。）
 * Kurt Gottfried and Tung-Mow Yan, "Quantum Mechanics: Fundamentals"（博士班認識到的書，言簡意賅但是不適合起手，適合學過一些基本量子知識後，發現自己學得不夠仔細用。）
