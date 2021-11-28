@@ -32,7 +32,7 @@ $$ i\partial_t|\psi\rangle=\hat{H}|\psi\rangle $$
 
 ### 線性疊加與量子糾纏：簡單到不能再簡單的例子
 
-Everything Should Be Made as Simple as Possible, But Not Simpler---???
+Everything should be made as simple as possible, but not simpler---???
 {:.success}
 
 上面這句話的意思是，把最重要的概念萃取出來（Make it as simple as possible.）但是不要過度簡化（But not simpler.），並不是說這個概念很簡單（easy）。遵守這個精神，我們找一個最簡單但是可以表示我們上面講的那些概念的例子。自旋1/2的量子自旋系統(quantum spin)--由於量子電腦的熱門，也有人叫這種系統q-bit（量子位元，quantum bit），因為他是量子版本的二位元系統。
