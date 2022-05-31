@@ -40,3 +40,5 @@ $$
 #### 配分函數（Partition function）
 
 #### 朗道相變理論（Ginsburg-Landau theory）
+
+[回到量子物質態簡介](../27/quantum_matter_0.html)
