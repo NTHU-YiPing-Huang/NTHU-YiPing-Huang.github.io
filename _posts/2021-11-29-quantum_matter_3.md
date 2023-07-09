@@ -57,6 +57,6 @@ $$
 
 朗道相變理論是如此的成功，從聚合物物理（polymer physics）到超導體（superconductivity）都可以看到他的影子。朗道理論遇到的第一個挑戰是臨界現象（critical phenomena）中的異常因次（anomalous dimension）。這個挑戰，也帶出了重整化群（renormalization group）的發展。給出關於現象學理論的理論。讓朗道理論解釋物質相的框架，更趨完備。
 
-除了臨界現象的挑戰外，我們可以從朗道理論的根源問：有沒有什麼東西違反locality的假設？臨界現象的基礎假設之一。[2016的諾貝爾物理獎](https://www.nobelprize.org/prizes/physics/2016/summary/)，針對如何以古典以及量子的方法，找到突破locality這個假設的機制。古典上，可以利用拓墣缺陷製造非顯然的物理；量子上，量子糾纏（quantum entanglement），一個本質上非local，不存在古典類比的概念，可以讓物質態的分類，跳脫朗道理論框架，更加的豐富有趣。
+除了臨界現象的挑戰外，我們可以從朗道理論的根源問：有沒有什麼東西違反locality的假設？臨界現象的基礎假設之一。[2016的諾貝爾物理獎](https://www.nobelprize.org/prizes/physics/2016/summary/)，針對如何以古典以及量子的方法，找到突破locality這個假設的機制。古典上，可以利用拓墣缺陷製造非顯然的物理，這就是有名的BKT相變（Berezinskii–Kosterlitz–Thouless transition）；量子上，量子糾纏（quantum entanglement），一個本質上非local，不存在古典類比的概念，可以讓物質態的分類，跳脫朗道理論框架，更加的豐富有趣。2016年諾貝爾獎也因此頒給Haldane phase的發現者。就像許多諾貝爾獎一樣，這些新發現，都打開了通往更多有趣物理的大門。Haldane phase其實是眾多具有非顯然量子糾纏結構物質態的冰山一角。
 
 [回到量子物質態簡介](../27/quantum_matter_0.html)
